@@ -5,6 +5,11 @@
 ###### and so for
 ####### until eternity not?
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
@@ -13,10 +18,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
-
-
-
-
 
 ![Image of Yaktocat|320x271](https://octodex.github.com/images/yaktocat.png)
 
