@@ -5,6 +5,19 @@
 ###### and so for
 ####### until eternity not?
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
+
+
+
 ![Image of Yaktocat|320x271](https://octodex.github.com/images/yaktocat.png)
 
 <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width="300">
@@ -21,3 +34,5 @@ Crucial information necessary for users to succeed.
 > Critical content demanding immediate user attention due to potential risks.
 
 :warning: **If you are using mobile browser**: Be very careful here!
+
+
